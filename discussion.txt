@@ -1,0 +1,13 @@
+To Do:
+
+Sarb:
+    
+Gurk: 
+	- ask T.A's bout additional valgrind commands
+
+    - finish Readme
+
+	- confirm all error mssages
+
+
+
