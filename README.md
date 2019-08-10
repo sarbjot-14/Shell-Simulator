@@ -1,4 +1,4 @@
-# Assignment 2: Shell with History - CMPT 300
+Shell with History - CMPT 300
 
 In this project we develop a simple UNIX shell. The shell accepts user commands.
 
