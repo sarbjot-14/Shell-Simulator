@@ -9,7 +9,7 @@ In this project we develop a simple UNIX shell. The shell accepts user commands.
 
 ## Design Decisions & Project Issues:
 
-### 3. Creating Child Process
+### Creating Child Process
 
 #### Design Decisions:
 1. Forking child
@@ -19,7 +19,7 @@ In this project we develop a simple UNIX shell. The shell accepts user commands.
     * run inside of child (check if in child if childpid == 0)
     * only wait for child if not in background
 
-### 4. Internal Commands
+### Internal Commands
 
 #### Design Decisions:
 
@@ -45,7 +45,7 @@ In this project we develop a simple UNIX shell. The shell accepts user commands.
 		- if enter key is only pressed in command line, sets the enter key flag to true and skips loop to the start through continue command, after resetting enter key command.
 
 
-### 5. Creating a History Feature
+### Creating a History Feature
 
 #### Design Decisions:
 1. Add command to history
